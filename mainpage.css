@@ -316,7 +316,7 @@ content: "Network Engineer...";
                 .timeline-content{
                     background-color: var(--bg-color);
                     border: 5px solid var(--main-color);
-                    padding: 50px 50px;
+                    padding: 550px 50px;
                     border-radius: 10rem;
                     box-shadow: 0 0 10px var(--main-color);
                     cursor: pointer;
@@ -370,7 +370,7 @@ content: "Network Engineer...";
                             }
                             .service-box{
                             background-color: var(--main-color);
-                            height: 300px;
+                            height: 320px;
                             border-radius: 2.5rem;
                             border: 20px solid transparent;
                             cursor: pointer;
