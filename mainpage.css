@@ -316,7 +316,7 @@ content: "Network Engineer...";
                 .timeline-content{
                     background-color: var(--bg-color);
                     border: 5px solid var(--main-color);
-                    padding: 50px 50px;
+                    padding: 40px 50px;
                     border-radius: 10rem;
                     box-shadow: 0 0 10px var(--main-color);
                     cursor: pointer;
